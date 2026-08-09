@@ -47,4 +47,4 @@ Each category contains challenge writeups organized by topic and difficulty.
 
 All content in this repository is for **educational purposes only**.
 
-These writeups are based on legal CTF challenges from picoCTF and should not be used against systems without permission.
+These writeups are based on legal CTF challenges from CyLab Security Academy and should not be used against systems without permission.
