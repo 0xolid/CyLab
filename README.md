@@ -14,7 +14,7 @@ The goal of this repository is simple:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 .
@@ -34,7 +34,7 @@ Each category contains challenge writeups organized by topic and difficulty.
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Improve CTF skills
 - Learn offensive security concepts
@@ -43,7 +43,7 @@ Each category contains challenge writeups organized by topic and difficulty.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 All content in this repository is for **educational purposes only**.
 
