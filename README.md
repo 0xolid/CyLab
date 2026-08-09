@@ -1,7 +1,7 @@
-# PicoCTF Writeups
+# CyLab Writeups
 
-Welcome to my PicoCTF writeups repository!  
-This repo contains my personal notes, solutions, and learning journey while solving challenges from picoCTF.
+Welcome to my CyLab writeups repository!  
+This repo contains my personal notes, solutions, and learning journey while solving challenges from `CyLab Security Academy`.
 
 The goal of this repository is simple:
 
