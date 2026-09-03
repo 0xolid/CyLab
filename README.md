@@ -23,9 +23,9 @@ The goal of this repository is simple:
 ├── Cryptography
 ├── Forensics
 ├── General Skills
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
+│   ├── 01-Easy
+│   ├── 02-Medium
+│   └── 03-Hard
 ├── Reverse Engineering
 └── Web Exploitation
 ```
