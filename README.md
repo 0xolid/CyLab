@@ -19,14 +19,20 @@ The goal of this repository is simple:
 ```bash
 .
 ├── Binary Exploitation
+│
 ├── Blockchain
+│
 ├── Cryptography
+│
 ├── Forensics
+│
 ├── General Skills
 │   ├── 01-Easy
 │   ├── 02-Medium
 │   └── 03-Hard
+│
 ├── Reverse Engineering
+│
 ├── Web Exploitation
 │
 └── README.md
