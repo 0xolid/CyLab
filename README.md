@@ -28,7 +28,7 @@ The goal of this repository is simple:
 │   └── 03-Hard
 ├── Reverse Engineering
 ├── Web Exploitation
-|
+│
 └── README.md
 ```
 
