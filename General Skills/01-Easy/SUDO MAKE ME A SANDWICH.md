@@ -33,7 +33,7 @@ This means the user can run `Emacs` as root without password.
 sudo emacs flag.txt
 ```
 
-```flag
+```text
 picoCTF{ju57_5ud0_17_c2c0d2e2}
 ```
 

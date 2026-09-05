@@ -12,7 +12,7 @@ wget "https://challenge-files.picoctf.net/c_fickle_tempest/094a1db42d5ae681cd9e5
 strings strings | grep "pico"
 ```
 
-```flag
+```text
 picoCTF{5tRIng5_1T_47948C73}
 ```
 

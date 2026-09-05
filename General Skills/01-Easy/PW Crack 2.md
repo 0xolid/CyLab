@@ -62,7 +62,7 @@ python3 level2.py
 de76
 ```
 
-```flag
+```text
 picoCTF{tr45h_51ng1ng_489dea9a}
 ```
 

@@ -25,7 +25,7 @@ We notice that the file is `PNG image data` which is weird because the file is P
 
 So i try to change his extension from `.pdf` to `.png`. And that's it when you open the image you found the first part of the flag `picoCTF{f1u3n7_`.
 
-```flag
+```text
 picoCTF{f1u3n7_1n_pn9_&_pdf_2a6a1ea8}
 ```
 

@@ -12,7 +12,7 @@ We can see it is a normal image, including some numbers on it.
 
 Putting the numbers in `CyberChef` with removing the `{}` give us that it is a `A1Z26 cipher` it is a very simple substitution cipher where each letter of the alphabet is replaced by its corresponding numerical position.
 
-```flag
+```text
 picoctf{thenumbersmason}
 ```
 

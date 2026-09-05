@@ -14,7 +14,7 @@ echo "obase=2; 42" | bc
 101010
 ```
 
-```flag
+```text
 picoCTF{101010}
 ```
 

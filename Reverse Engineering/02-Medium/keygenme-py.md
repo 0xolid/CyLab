@@ -288,7 +288,7 @@ print(new_flag)
 python3 full_flag.py
 ```
 
-```flag
+```text
 picoCTF{1n_7h3_kk3y_of_08c46aa4}
 ```
 

@@ -13,7 +13,7 @@ wget "https://challenge-files.picoctf.net/c_wily_courier/94960d0ab62213382ae31be
 cat flag
 ```
 
-```flag
+```text
 picoCTF{s4n1ty_v3r1f13d_9b8fa0bc}
 ```
 

@@ -48,7 +48,7 @@ for ch in enc_flag:
 print(flag)
 ```
 
-```flag
+```text
 picoCTF{16_bits_inst34d_of_8_b7f62ca5}
 ```
 

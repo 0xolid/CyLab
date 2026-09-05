@@ -23,7 +23,7 @@ After trying... It's `rot13` you can use `CyberChef`. Or also you can use termin
 cat values.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 ```
 
-```flag
+```text
 picoCTF{next_time_I'll_try_2_rounds_of_rot13_45559abd}
 ```
 

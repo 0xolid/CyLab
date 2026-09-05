@@ -9,7 +9,7 @@
 nc fickle-tempest.picoctf.net 62096
 ```
 
-```flag
+```text
 picoCTF{nEtCat_Mast3ry_5c7cC1a9}
 ```
 

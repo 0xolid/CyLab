@@ -70,7 +70,7 @@ So you can past the string easily into `CyberChef`. Or you can use the terminal 
 echo "cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9" | base64 -d
 ```
 
-```flag
+```text
 picoCTF{the_m3tadata_1s_modified}
 ```
 

@@ -15,7 +15,7 @@ It's a normal image so let's check the data of the image.
 strings garden.jpg | grep -i "pico"
 ```
 
-```flag
+```text
 picoCTF{more_than_m33ts_the_3y398ee229a}
 ```
 

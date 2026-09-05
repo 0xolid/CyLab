@@ -35,7 +35,7 @@ Here i found a base64 format in the `Attribution URL`.
 echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fNGRhYmRkY2J9Cg==" | base64 -d
 ```
 
-```flag
+```text
 picoCTF{ME74D47A_HIDD3N_4dabddcb}
 ```
 

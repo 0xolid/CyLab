@@ -124,7 +124,7 @@ Please enter correct password for flag:
 9581
 ```
 
-```flag
+```text
 picoCTF{fl45h_5pr1ng1ng_cf341ff1}
 ```
 

@@ -43,7 +43,7 @@ python ende.py -d flag.txt.en
 Please enter the password:720b6ad346f84cd483c60c7464dd95d4
 ```
 
-```flag
+```text
 picoCTF{4p0110_1n_7h3_h0us3_9c5f9bcf}
 ```
 

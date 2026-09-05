@@ -131,7 +131,7 @@ Please enter correct password for flag:
 2295
 ```
 
-```flag
+```text
 picoCTF{m45h_fl1ng1ng_6f98a49f}
 ```
 

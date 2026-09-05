@@ -19,7 +19,7 @@ Here we see a lot of files and directories. So the best command in this case is 
 grep -ri "picoctf" big-zip-files/
 ```
 
-```flag
+```text
 picoCTF{gr3p_15_m4g1c_ef8790dc}
 ```
 

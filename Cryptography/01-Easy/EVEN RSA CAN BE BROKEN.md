@@ -108,7 +108,7 @@ flag = long_to_bytes(m)
 print(flag)
 ```
 
-```flag
+```text
 picoCTF{tw0_1$_pr!m31c9046c4}
 ```
 

@@ -150,7 +150,7 @@ Or you can use this magic.
 cat drawing.flag.svg | grep -oP '(?<=>)[^<]+(?=<)' | tr -d ' \n' | grep -oP 'picoCTF\{[^}]+}'
 ```
 
-```flag
+```text
 picoCTF{3nh4nc3d_aab729dd}
 ```
 

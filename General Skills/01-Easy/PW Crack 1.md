@@ -53,7 +53,7 @@ He will ask you for a password so in the source code the password is `1e1a`.
 1e1a
 ```
 
-```flag
+```text
 picoCTF{545h_r1ng1ng_fa343060}
 ```
 

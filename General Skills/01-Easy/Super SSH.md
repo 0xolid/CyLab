@@ -11,7 +11,7 @@ ssh ctf-player@titan.picoctf.net -p 53656
 84b12bae
 ```
 
-```flag
+```text
 picoCTF{s3cur3_c0nn3ct10n_07a987ac}
 ```
 

@@ -14,7 +14,7 @@ echo $((0x3D))
 61
 ```
 
-```flag
+```text
 picoCTF{61}
 ```
 

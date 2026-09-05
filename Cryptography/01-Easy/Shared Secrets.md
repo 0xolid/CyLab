@@ -92,7 +92,7 @@ flag = bytes([c ^ key for c in enc_bytes])
 print(flag)
 ```
 
-```flag
+```text
 picoCTF{dh_s3cr3t_9982ffe6}
 ```
 

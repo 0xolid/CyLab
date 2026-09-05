@@ -13,7 +13,7 @@ wget "https://challenge-files.picoctf.net/c_wily_courier/5a478d0b24d6a4f4185e3ad
 strings warm | grep "flag"
 ```
 
-```flag
+```text
 picoCTF{b1scu1ts_4nd_gr4vy_ac5832c}
 ```
 

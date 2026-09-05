@@ -131,7 +131,7 @@ Please enter correct password for flag:
 8b95
 ```
 
-```flag
+```text
 picoCTF{fl45h_5pr1ng1ng_cf341ff1}
 ```
 

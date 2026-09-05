@@ -159,7 +159,7 @@ nc verbal-sleep.picoctf.net 52279
 Crowd: ;RETURN 0
 ```
 
-```flag
+```text
 picoCTF{70637h3r_f0r3v3r_836f0788}
 ```
 

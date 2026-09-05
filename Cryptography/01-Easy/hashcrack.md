@@ -44,7 +44,7 @@ Enter the password for the identified hash:
 | ---------------------------------------------------------------- | ------ | --------- |
 | 916e8c4f79b25028c9e467f1eb8eee6d6bbdff965f9928310ad30a8d88697745 | sha256 | qwerty098 |
 
-```flag
+```text
 Correct! You've cracked the SHA-256 hash with a secret found. 
 The flag is: picoCTF{UseStr0nG_h@shEs_&PaSswDs!_4c95d69f}
 ```

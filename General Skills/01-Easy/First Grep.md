@@ -13,7 +13,7 @@ wget "https://challenge-files.picoctf.net/c_fickle_tempest/b8915fc817a2cd58e83d7
 cat file | grep -oP "pico.*}"
 ```
 
-```flag
+```text
 picoCTF{grep_is_good_to_find_things_beD770f5}
 ```
 
