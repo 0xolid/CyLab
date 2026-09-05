@@ -18,22 +18,22 @@ The goal of this repository is simple:
 
 ```bash
 .
-├── Binary Exploitation
+├── Binary Exploitation/
 │
-├── Blockchain
+├── Blockchain/
 │
-├── Cryptography
+├── Cryptography/
 │
-├── Forensics
+├── Forensics/
 │
-├── General Skills
+├── General Skills/
 │   ├── 01-Easy
 │   ├── 02-Medium
 │   └── 03-Hard
 │
-├── Reverse Engineering
+├── Reverse Engineering/
 │
-├── Web Exploitation
+├── Web Exploitation/
 │
 └── README.md
 ```
