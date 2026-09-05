@@ -27,7 +27,9 @@ The goal of this repository is simple:
 │   ├── 02-Medium
 │   └── 03-Hard
 ├── Reverse Engineering
-└── Web Exploitation
+├── Web Exploitation
+|
+└── README.md
 ```
 
 Each category contains challenge writeups organized by topic and difficulty.
